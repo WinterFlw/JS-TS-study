@@ -1,0 +1,2 @@
+1. M3 MAX 40GPU, 64RAM
+2. M3 PRO 18GPU, 32RAM + alpha
